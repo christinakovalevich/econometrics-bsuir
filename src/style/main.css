@@ -1,0 +1,32 @@
+body
+{
+    /* background :#866FD7; */
+    background: linear-gradient(180deg, #39B7FF 0%, #9F7BE1 63.54%, #BB6BD9 100%);
+    font-family: sans-serif;
+    margin: 0 auto;
+    padding: 0;
+    color: #333333;
+    line-height: 1.5;
+}
+
+.container
+{
+    box-shadow: #00000025 0 0 100px;
+    border-radius: 15px;
+    padding: 100px;
+    background: #F2F2F2;
+    margin: 150px;
+}
+
+.missed
+{
+    background: #F16D95;
+    color: #94002D;
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+
+#main-header
+{
+    text-align: center;
+}
