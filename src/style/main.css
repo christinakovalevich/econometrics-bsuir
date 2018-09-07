@@ -9,13 +9,27 @@ body
     line-height: 1.5;
 }
 
-.container
+h2
+{
+    margin: 20px 0;
+}
+
+footer
+{
+    box-shadow: #00000025 0 0 100px;
+    border-radius: 15px 15px 0 0;
+    padding: 100px;
+    background: #333333;
+    margin: 0 150px;
+}
+
+.myContainer
 {
     box-shadow: #00000025 0 0 100px;
     border-radius: 15px;
-    padding: 100px;
+     padding: 100px;
+     margin: 150px 0;
     background: #F2F2F2;
-    margin: 150px;
 }
 
 .missed
