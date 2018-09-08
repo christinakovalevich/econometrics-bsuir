@@ -2,7 +2,7 @@ body
 {
     /* background :#866FD7; */
     background: linear-gradient(180deg, #39B7FF 0%, #9F7BE1 63.54%, #BB6BD9 100%);
-    font-family: sans-serif;
+    font-family: 'Roboto', sans-serif;
     margin: 0 auto;
     padding: 0;
     color: #333333;
@@ -42,5 +42,10 @@ footer
 
 #main-header
 {
-    text-align: center;
+    text-align: right;
+}
+
+#main-header span
+{
+    font-weight: bolder;
 }
