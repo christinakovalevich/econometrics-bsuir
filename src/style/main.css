@@ -1,21 +1,15 @@
-body
-{
+body {
     /* background :#866FD7; */
     background: linear-gradient(180deg, #39B7FF 0%, #9F7BE1 63.54%, #BB6BD9 100%);
     font-family: 'Roboto', sans-serif;
-    margin: 0 auto;
-    padding: 0;
     color: #333333;
-    line-height: 1.5;
 }
 
-h2
-{
+h2 {
     margin: 20px 0;
 }
 
-footer
-{
+footer {
     box-shadow: #00000025 0 0 100px;
     border-radius: 15px 15px 0 0;
     padding: 100px;
@@ -23,8 +17,7 @@ footer
     margin: 0 150px;
 }
 
-.myContainer
-{
+.myContainer {
     box-shadow: #00000025 0 0 100px;
     border-radius: 15px;
     padding: 100px;
@@ -32,20 +25,17 @@ footer
     background: #F2F2F2;
 }
 
-.missed
-{
+.missed {
     background: #F16D95;
     color: #94002D;
     padding: 10px 15px;
     border-radius: 10px;
 }
 
-#main-header
-{
+#main-header {
     text-align: right;
 }
 
-#main-header span
-{
+#main-header span {
     font-weight: bolder;
 }
