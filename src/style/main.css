@@ -1,4 +1,5 @@
 :root {
+    /* Тут мы создаем переменные и можем потом их использовать используя var(--имяпеременной) */
     --gradient-firstPage: linear-gradient(180deg, #39B7FF 0%, #9F7BE1 63.54%, #BB6BD9 100%);
     --gradient-secondPage: linear-gradient(180deg, #BB6BD9 0%, #FB00C3 99.99%, #BB6BD9 100%);
     --box-shadow: #00000025 0 0 100px;
